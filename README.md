@@ -12,6 +12,11 @@ This python code retrives the steam market prices of products provided the steam
 * run the program using `python price.py`
 * `list.txt` file contains all the product URL's from Steam Market seperated in each line
 
+```
+with example link output is:
+★ Falchion Knife | Blue Steel (Field-Tested)
+₹ 7,000.14
+```
 ## To-Do
 - [x] Display the prices
 - [ ] Custom currency to choose from
