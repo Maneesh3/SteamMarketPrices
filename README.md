@@ -19,6 +19,7 @@ with example link output is:
 ```
 ## To-Do
 - [x] Display the prices
+- [ ] Database MongoDB to store each users watchlist links
 - [ ] Custom currency to choose from
 - [ ] Alert sent to Telegram using a bot, when price is low at a certain point
 - [ ] Release this project as a bot for multiple users with database
