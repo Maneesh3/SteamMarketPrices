@@ -1,0 +1,6 @@
+{
+	"mongoDB":"<mongodb database collection link>",
+	"telegram_Bot_Token":"<telegram bot token from BotFather>",
+	"cluster_name":"Cluster name in mongodb",
+	"dataBase_name":"Database name in mongodb"
+}
